@@ -1,0 +1,5 @@
+{
+  "name": "Quiz Biblico Adattivo",
+  "description": "Un'app quiz interattiva per lo studio della Bibbia (versione Nuova Riveduta) con livelli di difficoltà variabili, punteggio e blocchi tematici. La difficoltà si adatta dinamicamente in base alle performance dell'utente.",
+  "requestFramePermissions": []
+}
